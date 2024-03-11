@@ -1,0 +1,24 @@
+<resources>
+    // common
+    <color name="colorPrimary">#1882BF</color>
+    <color name="colorPrimaryDark">#42a1d8</color>
+    <color name="colorAccent">#42a1d8</color>
+    <color name="colorBackground">#3d3d3d</color>
+    <color name="colorText">#414547</color>
+    <color name="colorTextWhite">#FFFFFF</color>
+    <color name="colorTextLite">#80FFFFFF</color>
+    <color name="colorGradientStart">#2E2E2E</color>
+    <color name="colorGradientEnd">#8E8E8E</color>
+
+    <color name="colorGradientCardCenter">#99000000</color>
+    <color name="colorGradientCardEnd">#000000</color>
+    <color name="colorGradientCardStart">#B3000000</color>
+    // welcome
+    <color name="colorWelcomeBg">#3f4d6a</color>
+    // home
+    <color name="colorHomeMenu">#3f4d6a</color>
+    <color name="colorHomeSearch">#ffaa3f</color>
+    <color name="colorSettingsItemBg">#616161</color>
+    // settings
+    <color name="colorBackgroundRight">#3f4d6a</color>
+</resources>
