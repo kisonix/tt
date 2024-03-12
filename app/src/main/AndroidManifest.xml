@@ -33,7 +33,7 @@
             android:icon="@drawable/logo"
             android:logo="@drawable/logo"
             android:screenOrientation="landscape"
-            android:theme="@style/Theme.TvgramTv"
+            android:theme="@style/Theme.Tvgram"
             android:windowSoftInputMode="adjustResize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -73,7 +73,7 @@
             android:name=".ui.video.VideoActivity"
             android:exported="false"
             android:screenOrientation="landscape"
-            android:theme="@style/Theme.TvgramTv" />
+            android:theme="@style/Theme.Tvgram" />
 
     </application>
 

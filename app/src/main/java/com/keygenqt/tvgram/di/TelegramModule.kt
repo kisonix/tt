@@ -60,6 +60,7 @@ object TelegramModule {
             useSecretChats = true
             systemLanguageCode = Locale.getDefault().language
             databaseDirectory = context.filesDir.absolutePath
+            filesDirectory = context.getExternalFilesDir(null)?.absolutePath
             deviceModel = Build.MODEL
             systemVersion = Build.VERSION.RELEASE
             applicationVersion = "0.0.1"
